@@ -1,10 +1,6 @@
 <h3 align="center">A passionate fullstack developer from Indonesia ❤️🤍</h3>
 
-- 🔭 I’m currently working on **Genius Code Party**
-
-- 🌱 I’m currently learning **CodeIgniter 4, BanyumiliJS, React**
-
-- 🤝 I’m looking for help with **Genius Code Party**
+- 🌱 I’m currently learning **CodeIgniter 4, Flowra, React, NextJS, Laravel**
 
 - ⚡ Fun fact **Play with code until sick**
 
