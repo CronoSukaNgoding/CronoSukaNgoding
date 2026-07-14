@@ -28,7 +28,7 @@ Passionate about creating clean architecture, intuitive UI/UX, and scalable syst
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://instagram.com/sbaniptr">
+<a href="https://instagram.com/sbnieptr">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 </p>
