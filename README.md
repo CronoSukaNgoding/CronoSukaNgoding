@@ -48,11 +48,7 @@ Passionate about creating clean architecture, intuitive UI/UX, and scalable syst
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cronosukangoding&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cronosukangoding&layout=compact&theme=transparent&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cronosukangoding&theme=github-compact&hide_border=true"/>
 </p>
 
 <p align="center">
